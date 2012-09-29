@@ -3002,7 +3002,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 }
 
 /* Mobile Styles */
-@media only screen and (max-width: 940px) {
+@media only screen and (max-width: 767px) {
   /* line 146, ../../../../../../usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/zurb-foundation-3.1.0/scss/foundation/components/modules/_topbar.scss */
   .top-bar {
     margin-bottom: 0;
@@ -5079,6 +5079,6 @@ em {
 }
 
 /* line 85, ../sass/app.scss */
-#email-address {
+.contact-info {
   margin-bottom: 2px;
 }
