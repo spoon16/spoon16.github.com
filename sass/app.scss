@@ -51,12 +51,12 @@ a {
     color: #12C;
     text-decoration: underline;
 
-    &:visited {
-        color: #609;
-    }
-
     &:hover {
         color: #12C;
+    }
+
+    &:active {
+       color: #12C;
     }
 }
 
